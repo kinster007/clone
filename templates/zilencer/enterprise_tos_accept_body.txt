@@ -1,0 +1,11 @@
+{#
+Mail sent to us when a company accepts the ToS for Zulip Enterprise
+edition.
+#}
+
+Hello,
+
+{{ name }} just accepted the Enterprise Terms of Service for {{ company }}.
+
+Cheers,
+Legal Bot
